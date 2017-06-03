@@ -15,7 +15,7 @@
           <string>software-package</string>
           <!-- required. the URL of the file to download. -->
           <key>url</key>
-       <string>https://dl.dropboxusercontent.com/s/cjdo1r27bz034cw/ScanToPay.ipa</string>          
+       <string>https://vensonyen.github.io/distribution/ios/scan_to_pay/ScanToPay.ipa</string>          
         </dict>
         <!-- display-image: the icon to display during download.-->
         <dict>
